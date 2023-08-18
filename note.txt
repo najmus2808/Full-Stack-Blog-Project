@@ -1,0 +1,5 @@
+Frontend Live URL: https://full-stack-blog-project.vercel.app
+API Live URL: https://blog-projct-backend.vercel.app
+
+Server Side Github Repo: https://github.com/najmus2808/Full-Stack-Blog-Project
+Client Side Github Repo: https://github.com/najmus2808/blog-projct-backend
